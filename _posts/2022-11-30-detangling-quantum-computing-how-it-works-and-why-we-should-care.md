@@ -1,5 +1,5 @@
 ---
-title: "Why Big Isn't Always Better."
+title: "The Future of Small."
 categories:
   - blog
 tags:
@@ -7,7 +7,7 @@ tags:
   - quantum
 ---
 
-If you type 'quantum computing' into Google, 175 million results pop up in (if you've got slow Internet like me) less than half a second. Touted as the future of information and optimisation technologies, reports estimate the industry could generate a trillion dollars annually by 2050 as significant investment continues to be attracted from tech giants including IBM, Google, and Intel to name a few. Yet for the majority of netizens for whom a smartphone, tablet, or PC is more than enough to allow full participation into 21st century society, how will this shift in computing actually shape our daily lives? Are we witnessing a revolution in real time, or just another hype cycle?
+If you type 'quantum computing' into Google, 175 million results pop up in (if you've got slow Internet like me) less than half a second. Touted as the future of information and optimisation technologies, reports estimate the industry could generate a trillion dollars annually by 2050 as significant investment continues to be attracted from tech giants including IBM, Google, and Intel to name a few. Yet for the majority of netizens for whom a smartphone, tablet, or PC is more than enough to allow full participation into 21st century society, will this shift in computing actually revolutionise our daily lives?
 
 First off, it is useful to know what quantum computing actually is. In straightforward terms, quantum mechanics is a branch of physics that deals with the behaviour of atomic and subatomic matter. This includes protons and neutrons that make up an atom’s nucleus, and electrons that are located in the nucleus’ surrounding shells. Physicists working at these quantum scales in the late 18th and early 19th centuries observed that matter at this level would interact illogically, in ways deemed physically impossible for macroscopic objects obeying the laws of classical mechanics.
 
@@ -35,6 +35,6 @@ One especially pertinent direction for quantum technologies is in the field of m
 
 Whilst quantum computing presently remains to many a mysterious, even quasi-magical expansion into the realm of hypermodern and sci-fi technologies, as the science and engineering continues to progress rapidly, very real differences will be seen across the lives of everyday individuals. From journey planning as seen with the Travelling Salesman, to vastly improved healthcare from expedited drug trialling and delivery, quantum computing may not ever be in the business of replacing your iPhone or Android, but that doesn’t mean it won’t change your life.
 
-Although we’re a few years away from these applications becoming mainstream, there are hopes that by 2030, such expectations can become a reality as the number of universities, think-tanks, and companies invested in quantum computing continue to expand. With IBM Research, a leader in the field, planning on releasing four new quantum processers between now and 2025, alongside Google’s trajectory of spending several billion dollars to build a quantum computer by 2029 that can perform large-scale business and scientific calculations without errors, this is an industry that won’t be slowing down any time soon.
+Although we’re a few years away from these applications becoming mainstream, there are hopes that by 2030, such expectations can become a reality as the number of universities, think-tanks, and companies invested in quantum computing continue to expand. IBM Research, a leader in the field, is planning on releasing four new quantum processers between now and 2025, alongside Google’s trajectory of spending several billion dollars to build a quantum computer by 2029 that can perform large-scale business and scientific calculations without errors. Far from just another hype, this is an industry that won’t be slowing down any time soon.
 
 1A qubit’s value, whether it is 1 or 0, can be encoded in several different ways, but one method is achieved through knowing the qubit’s ‘spin state’. The spin state is derived from the qubit’s own magnetic properties, as it will either align against its polarised surroundings, known as ‘spin up’ (1), or with them, known as ‘spin down’ (0). However, the qubit only settles or ‘collapses’ into these spin up/spin down basis states when it is being measured (another phenomenon unique to quantum mechanics). Before this point, the qubit will spin in every which way possible at any one time within this magnetic field: the qubit exists in a superposition of being spin up and spin down. And it is this superposition third state that gives quantum computers their uniquely powerful capabilities.

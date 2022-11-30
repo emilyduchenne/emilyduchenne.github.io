@@ -1,1 +1,1 @@
-# Emily Duchenne's personal website
+# Emily Duchenne's website

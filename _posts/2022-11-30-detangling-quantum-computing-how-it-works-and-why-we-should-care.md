@@ -1,5 +1,5 @@
 ---
-title: "Detangling Quantum Computing: How it Works, and Why We Should Care."
+title: "Why Big Isn't Always Better."
 categories:
   - blog
 tags:
@@ -7,9 +7,9 @@ tags:
   - quantum
 ---
 
-Quantum computing is increasingly being lauded as ‘the next big thing’, not just in information and optimisation technologies, but across life as we know it. With the industry value estimated at $3 billion in 2021, the faster, more accurate, and importantly more powerful potential of quantum computers is attracting significant investment from tech giants such as IBM, Google, Intel, and Microsoft, each eager to claim the breakthrough in developing quantum superiority. Yet for the majority of netizens for whom a smartphone, tablet, or PC is more than enough to allow full participation into 21st century society, quantum computers may seem interesting, but mostly irrelevant, to the daily hustle and bustle of life. In an effort to unpack how such a view may be both the case and the contrary, this article demystifies some of the science behind quantum technologies, exploring the possibly revolutionary capabilities of near-future computing, from a professionally lay perspective.
+If you type 'quantum computing' into Google, 175 million results pop up in (if you've got slow Internet like me) less than half a second. Touted as the future of information and optimisation technologies, reports estimate the industry could generate a trillion dollars annually by 2050 as significant investment continues to be attracted from tech giants including IBM, Google, and Intel to name a few. Yet for the majority of netizens for whom a smartphone, tablet, or PC is more than enough to allow full participation into 21st century society, how will this shift in computing actually shape our daily lives? Are we witnessing a revolution in real time, or just another hype cycle?
 
-In straightforward terms, quantum mechanics is a branch of physics that deals with the behaviour of atomic and subatomic matter. This includes protons and neutrons that make up an atom’s nucleus, and electrons that are located in the nucleus’ surrounding shells. Physicists working at these quantum scales in the late 18th and early 19th centuries observed that matter at this level would interact illogically, in ways deemed physically impossible for macroscopic objects obeying the laws of classical mechanics.
+First off, it is useful to know what quantum computing actually is. In straightforward terms, quantum mechanics is a branch of physics that deals with the behaviour of atomic and subatomic matter. This includes protons and neutrons that make up an atom’s nucleus, and electrons that are located in the nucleus’ surrounding shells. Physicists working at these quantum scales in the late 18th and early 19th centuries observed that matter at this level would interact illogically, in ways deemed physically impossible for macroscopic objects obeying the laws of classical mechanics.
 
 One such example of this unique behaviour is demonstrated in the 1927 discovery of ‘quantum tunnelling’, a phenomenon whereby a proton or electron can appear on the opposite side of an energy barrier acting as a wave instead of a solid particle. Put simply, this would be like moving through a solid wall. This is not the only unique behaviour that such particles possess: superposition, entanglement, and interference are complex properties that act outside of the confines of classical mechanics. It is these key properties that are essential to the running of quantum computers; however, before we dive into the complicated physics behind the concept of quantum computing itself, let’s take a look at how computers actually work, quantum or not.
 

@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Emily Duchenne"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm interested in a lot of things...<br>here are some of them."
+  bio    : "I'm interested in a lot of things...<br>here are just some of them."
   links:
     - label: "London"
       icon: "fa fa-fw fa-map-marker"

@@ -107,7 +107,7 @@ Analysing Jennifer and Needy in Jennifer’s Body (Kusuma, 2009), I analysed how
 37.	Schultz, D.G., 2020. " She Is Finally Free": An Analysis of Women's Pathologized Oppression and Reclamation of the Abject in" The Yellow Wallpaper" and Midsommar. State University of New York at Albany.
 38.	Scott, R., 1979. Alien. [Motion Picture] United States: 20th Century Fox.
 39.	Slobodin, O., 2019. Between the eye and the gaze: Maternal shame in the novel We Need to Talk about Kevin. Feminism & Psychology, 29(2), pp.214-230.
-40.	Thornham, S., 2015. ‘A hatred so intense…’. We need to talk about Kevin. Postfeminism and women’s cinema. Conselho Editorial| Editorial Board, 3(1), pp.43-63.
+40.	Thornham, S., 2015. ‘A hatred so intense…’. We need to talk about Kevin. Postfeminism and women’s cinema. Editorial Board, 3(1), pp.43-63.
 41.	Ussher, J.M. and Perz, J., 2020. Resisting the mantle of the monstrous feminine: Women’s construction and experience of premenstrual embodiment. The Palgrave Handbook of Critical Menstruation Studies, pp.215-231.
 42.	Vachhani, S.J., 2014. Always different?: exploring the monstrous-feminine and maternal embodiment in organisation. Equality, Diversity and Inclusion: An International Journal.
 43.	Wee, V., 2005. The Scream trilogy," hyperpostmodernism," and the late-nineties teen slasher film. Journal of Film and Video, 57(3), pp.44-61

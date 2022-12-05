@@ -9,7 +9,7 @@ tags:
   - Election
 ---
 
-In the dénouement of a fierce Presidential election marred by protests, scaremongering, and fatal violence, Brazil’s reappointment of left-wing Luiz Inácio Lula da Silva, or ‘Lula’, against hard-right outgoing President Jair Bolsonaro, has left the country at odds with itself. 
+In the dénouement of a fierce Presidential election marred by protests, scaremongering, and fatal violence, Brazil’s reappointment of left-wing Luiz Inácio Lula da Silva against hard-right outgoing President Jair Bolsonaro, has left the country at odds with itself. 
 
 Taking home the victory for the Worker’s Party on a razor-thin margin of just 0.9%, former President Lula’s campaign was considered by many to represent the principles of democracy, socioeconomic equality, and ecological conservation that have remained the crux of his political sensibilities for the last five decades. In an ideological contrast, Bolsonaro oversaw an agricultural and construction boom in the country’s interior that won the support of many farmers and businessmen, leading to the soaring depletion of rainforest sites and Indigenous lands throughout his time in office. Moreover, a famously outspoken and direct politician, Bolsonaro’s repeated attacks on LGBTQ+ communities and his refusal to take the pandemic seriously further splintered the electorate as Brazilians rushed to either stand with his views, or firmly against them.
 

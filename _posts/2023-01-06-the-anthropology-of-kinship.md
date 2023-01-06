@@ -1,3 +1,12 @@
+---
+title: "The Anthropology of Kinship"
+categories:
+  - blog
+tags:
+  - Anthropology
+  - Kinship
+---
+
 Traditionally one of the key topics in Anthropology, kinship encompasses the study of how individuals are related to one another through biological, legal, and symbolic means (Peletz, 1995) – relations that form the basis of diverse forms of social organisation. Across all societies, kinship is marked by a set of relationship terms that define the universe of kin and that may be extended metaphorically to non-kin, and even to various aspects of the world of nature (Nuttall, 2000; Souza, 2006). Appreciating how kinship has been studied across the Anthropological discipline and the direction it is taking today is crucial to understand whether postmodern cultures of consumerism alongside technological advancements are impacting the ways in which people connect and form meaningful relationships with each other across a range of mediums.
 
 The study of kinship is widely regarded to have its origins in the mid-19th century United States with Anthropologist L.H. Morgan (Schneider, 1972). Exploring the kinship classifications of Native American communities, Morgan conceptualized kinship with explicit reference to a genealogical grid defined in biological terms, arguing relationships to be founded upon a “community of blood” (Morgan, 1871; in Sousa, 2003). Morgan embarked on several ethnographic trips around America and Asia, gathering information on kinship terminology to culminate in his publication of Systems of Consanguinity and Affinity of the Human Family (1871). Within this, Morgan would argue for kinship systems across the ‘New’ and ‘Old’ Worlds to be differentiated as ‘descriptive’ versus ‘classificatory’ systems; however, a proponent of theories of Social Evolutionism, Morgan used these findings to support imaginations of non-Western ‘primitive’ civilisations as contrasted against ‘advanced’ Western societies, later penning Ancient Society in 1877 to propel this view of the linear evolution of social institutions (Sousa, 2003).

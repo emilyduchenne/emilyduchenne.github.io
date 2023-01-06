@@ -1,4 +1,13 @@
-The perception of tattoos throughout Western history is not a myopic interpretation of disgust, despite academic and popular literature impressions (Atkinson, 2004). Appreciating how acceptance has oscillated across this period grounds the practice within subcultural and Orientalist discourses. Furthermore, understanding the dynamic production and consumption of tattooing raises questions regarding individual and social identities that form in relation to the process and product, troubling notions of subculturalism through redefinitions of community and individual agency. 
+---
+title: "Tattoos in Western Society"
+categories:
+  - blog
+tags:
+  - Tattoos 
+  - Western
+---
+
+The perception of tattoos throughout Western history is far from myopic disgust (Atkinson, 2004). Oscillating between periods of embracement and antipathy and grounded within subcultural and Orientalist narratives, the dynamic production and consumption of tattooing across Europe and North America raises questions regarding individual and social identities that form in relation to the process and product.  
 
 Embedded with colonial themes of racialisation and Othering, tattoos resurged within 18th century Europe with the return of Captain James Cook from Polynesia, accompanied by native ‘specimens’ wearing extensive tribal tattoos (Werner, 2005). Aristocratic European society held a fascinated horror with the tattooed body, corporealising imaginative geographies of the exotic Other (Said, 1979). Despite this initial popularity, the proliferation of exoticised entertainment through ethnic shows and ‘habitat exhibits’ across Europe and North America, such as the display of tattooed Tahitian communities (Werner, 2005) fetishized the tattooed body as primitive and ‘freakish’ (Kerchy and Zittlau, 2012). Tattoos were simultaneously exonerated or demonised through structures of class and social background, as well as position in colonial worlds as either subject or oppressor.
 

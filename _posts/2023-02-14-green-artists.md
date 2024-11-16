@@ -1,5 +1,5 @@
 ---
-title: "Meet the Green Artists Making Waves:
+title: "Meet the Green Artists Making Waves"
 categories:
   - Blog
 tags:

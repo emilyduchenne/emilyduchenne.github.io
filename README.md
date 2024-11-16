@@ -46,3 +46,10 @@ tags:
 
 Your blog using markdown format
 ```
+
+# markdown cheat sheet
+
+	**bold text**
+
+  Link: [title](https://www.example.com)
+

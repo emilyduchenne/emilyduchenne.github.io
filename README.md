@@ -18,7 +18,7 @@ Replace the bio on line 63 of _config.yml
 Replace the description on line 18
 
 ### Add text to the about page
-Navigate to the file ./pages/about.md
+Navigate to the file ./_pages/about.md
 Replace the text starting with 'Tempor velit sint sunt...'
 
 # How to add posts

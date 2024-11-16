@@ -1,5 +1,6 @@
 ---
 title: "Virtual Fitting Rooms: The Next E-Commerce Trend?:
+categories:
   - Blog
 tags:
   - E-commerce

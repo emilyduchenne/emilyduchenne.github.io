@@ -12,7 +12,7 @@ tags:
 
 Lying south of Earth’s largest hot desert and encompassing forty-six of Africa’s fifty-four countries, sub-Saharan Africa is renowned for incredible landscapes, diverse populations, and rich cultural histories. With estimates of three thousand ethnic groups and over one thousand spoken languages, religious conviction is a uniting force across this vast area. Few are religiously unaffiliated, and whilst Christianity and Islam dominate, the syncretism of these Abrahamic religions with traditional beliefs a unique aspect to life in the sub-continent. 
 
-A key way this daily melding of religions can be witnessed is through local cuisines. Foodstuffs are used ritualistically, eating practices become religious in tone, and the protective power of spirits and ceremonies all demonstrate the influence of faith across this diverse continent.
+A key way this melding of religions can be witnessed is through local cuisines. Foodstuffs are used ritualistically, eating practices become religious in tone, and the protective power of spirits and ceremonies all demonstrate the influence of faith across this diverse continent.
 
 A country where religion is of great salience in mealtimes and eating practices is the West African Guinea-Bissau. For many Guinea-Bissauans, religion is as much a statement about belief as it is ethnicity, with religious identity impacting heavily on cuisine. In a country where forty-five percent of the population is Muslim, practiced widely by the Fula, Soninke, Susu and Mandinka ethnic groups, Islam overcomes ethnic and linguistic differences through specifically Muslim dishes. 
 

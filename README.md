@@ -24,6 +24,7 @@ Replace the text starting with 'Tempor velit sint sunt...'
 # How to add posts
 template at the bottom called yyyy-mm-dd.md 
 copy this into the _posts folder
+command+s to save, then commit changes w source control
 
 Posts are contained in the _posts folder
 

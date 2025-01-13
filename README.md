@@ -23,9 +23,10 @@ Replace the text starting with 'Tempor velit sint sunt...'
 
 # How to add posts
 template at the bottom called yyyy-mm-dd.md 
+copy this into the _posts folder
 
 Posts are contained in the _posts folder
-Here you will find some example posts that the minimal mistakes github page made to show you the features
+
 Basically these are markdown files just like a README. I would check out this [link](https://www.markdownguide.org/cheat-sheet/) to understand how to use markdown if you haven't before.
 
 !!!Very important!!!

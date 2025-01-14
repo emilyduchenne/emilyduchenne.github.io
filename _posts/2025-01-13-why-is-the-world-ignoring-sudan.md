@@ -8,7 +8,9 @@ tags:
   - Human Rights
 ---
 
-Ukraine is stricken by war. Gaza faces constant bombardment and near-total devastation. Los Angeles, gripped by flames, saw thousands made homeless overnight. And the looming spectre of Donald Trump’s return to power, now only days away. These stories have filled our news channels and For You pages for the last 12 months - and rightly so, critical in keeping the powers that be accountable for their actions, if not right now then at least in the hopefully near future. But in a world of constant doomscrolling, Sudan’s anguish barely registers, with scant reporting and laissez-faire attention on the mechanics of a war that is choke-holding the region and its people.
+Ukraine is stricken by war. Gaza faces constant bombardment and near-total devastation. Los Angeles, gripped by flames, saw thousands made homeless overnight. And the looming spectre of Donald Trump’s return to power, now only days away. These stories have filled our news channels and For You pages for the last 12 months - and rightly so, critical in keeping the powers that be accountable for their actions, if not right now then at least in the hopefully near future. 
+
+But in a world of constant doomscrolling, Sudan’s anguish barely registers, with scant reporting and laissez-faire attention on the mechanics of a war that is choke-holding the region and its people.
 
 The global appetite for tragedy is insatiable - a macabre voyeurism fed by dark headlines and distant suffering. So with an estimated 150,000 lives lost and over 11 million displaced, why is the world turning away from Sudan?
 

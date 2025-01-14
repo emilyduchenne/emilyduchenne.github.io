@@ -27,7 +27,7 @@ Contributing to racial biases, decades of British and Egyptian colonial rule lef
 
 Western indifference to Sudan, and African countries at large, is thereby compounded by an unwillingness to confront complicitness in creating these fractures and subsequent tensions. 
 
-When coupled with the Western media’s racial empathy bias, where proximity to whiteness often dictates whose pain is seen or felt (the reporting on Russia’s invasion of Ukraine comes to mind, where refugees were described as Christian, white, and European to emphasise shock and horror), it becomes clear why Sudan’s crisis struggles to gain the urgency it deserves.
+When coupled with the Western media’s racial empathy bias, where proximity to whiteness often dictates whose pain is seen or felt (the reporting on Russia’s invasion of Ukraine comes to mind, where refugees were described as Christian, white, and European to emphasise shock and horror at their plight), it becomes clear why Sudan’s crisis struggles to gain the urgency it deserves.
 
 This is not simply an unfortunate oversight but a damning reflection of global systems that have long dehumanised and dismissed African lives. Sudan’s plight is not inevitable, another chapter in a tired story of African conflict.; it is the outcome of deliberate neglect and a failure to reckon with the enduring legacies of colonialism and racial hierarchies.
 

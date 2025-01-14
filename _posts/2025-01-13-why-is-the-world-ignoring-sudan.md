@@ -17,15 +17,19 @@ The global appetite for tragedy is insatiable - a macabre voyeurism fed by dark 
 
 #### The Weight of Anti-Blackness
 
-Back in November, I spoke to a member of the protest group London for Sudan about this very issue. Having assembled a small but powerful demonstration outside the Emirates stadium, a gutsy move given the Liverpool-induced temperament of Arsenal fans, principle organiser Lulu voiced a hard truth: that Sudan’s invisibility is rooted in anti-Blackness.
+Back in November, a member of the protest group London for Sudan spoke to my partner Afeefa and me about this very issue. Having assembled a small but powerful demonstration outside the Emirates stadium, a gutsy move given the Liverpool-induced temperament of Arsenal fans, principle organiser Lulu voiced a hard truth: that Sudan’s invisibility is rooted in anti-Blackness.
 
 “Just Africans fighting again,” she said, distilling the dismissiveness of the narratives that permeate mainstream media and government agendas. A stark reflection of how the violence in Sudan is trivialised, her words stuck like a slap.
 
-Anti-Blackness - the systemic devaluation and marginalisation of Black lives - is nothing new. Anti-Blackness—the systemic devaluation and marginalisation of Black lives—is entrenched in a legacy of historical exploitation and postcolonial neglect. It is not an inherent or inevitable bias but the result of structures and systems that have, over centuries, prioritised certain lives while rendering others invisible. 
+Anti-Blackness - the systemic devaluation and marginalisation of Black lives - is unfortunately nothing new. Entrenched in Euro-American legacies of historical exploitation and postcolonial neglect, it is not an inherent or inevitable bias, but the result of structures and systems that have, over centuries, prioritised certain lives while rendering others invisible. 
 
-These issues of anti-Blackness run deep: Western indifference to Sudan’s pain is compounded by its unwillingness to confront its own complicity, where decades of British and Egyptian colonial rule left a fractured Sudan, its independence in 1956 birthing fault lines of ethnic, regional, religious, and political strife. 
+Contributing to racial biases, decades of British and Egyptian colonial rule left a fractured Sudan, its independence in 1956 marked by fault lines of ethnic, regional, religious, and political strife that were largely ignored by the powers that created them.
 
-It is these legacies of global meddling and lack of accountability that leave Sudan’s suffering dismissed as a mere inevitability, another chapter in a tired story of African conflict.
+Western indifference to Sudan, and African countries at large, is thereby compounded by an unwillingness to confront complicitness in creating these fractures and subsequent tensions. 
+
+When coupled with the Western media’s racial empathy bias, where proximity to whiteness often dictates whose pain is seen or felt (the reporting on Russia’s invasion of Ukraine comes to mind, where refugees were described as Christian, white, and European to emphasise shock and horror), it becomes clear why Sudan’s crisis struggles to gain the urgency it deserves.
+
+This is not simply an unfortunate oversight but a damning reflection of global systems that have long dehumanised and dismissed African lives. Sudan’s plight is not inevitable, another chapter in a tired story of African conflict.; it is the outcome of deliberate neglect and a failure to reckon with the enduring legacies of colonialism and racial hierarchies.
 
 
 #### Power Struggles and Proxys 

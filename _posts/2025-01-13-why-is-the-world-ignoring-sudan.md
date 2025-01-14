@@ -8,7 +8,7 @@ tags:
   - Human Rights
 ---
 
-Ukraine is stricken by war. Gaza faces constant bombardment and near-total devastation. Los Angeles, gripped by flames, saw thousands made homeless overnight. And the looming spectre of Donald Trump’s return to power, now only days away. These stories have filled our news channels and For You pages for the last 12 months - and rightly so, critical in keeping the powers that be accountable for their actions, if not right now then at least in the hopefully near future. 
+Ukraine is stricken by war. Gaza faces constant bombardment and near-total devastation. Los Angeles, gripped by flames, saw thousands made homeless overnight. The looming spectre of Donald Trump’s return to power, now only days away. These stories have filled our news channels and For You pages for the last 12 months - and rightly so, critical in keeping the powers that be accountable for their actions, if not right now then at least in the hopefully near future. 
 
 But in a world of constant doomscrolling, Sudan’s anguish barely registers, with scant reporting and laissez-faire attention on the mechanics of a war that is choke-holding the region and its people.
 
@@ -17,7 +17,7 @@ The global appetite for tragedy is insatiable - a macabre voyeurism fed by dark 
 
 #### The Weight of Anti-Blackness
 
-Back in November, a member of the protest group London for Sudan spoke to my partner Afeefa and me about this very issue. Having assembled a small but powerful demonstration outside the Emirates stadium, a gutsy move given the Liverpool-induced temperament of Arsenal fans, principle organiser Lulu voiced a hard truth: that Sudan’s invisibility is rooted in anti-Blackness.
+Back in November, I spoke to a member of the protest group London for Sudan about this very issue. Having assembled a small but powerful demonstration outside the Emirates stadium, a gutsy move given the Liverpool-induced temperament of Arsenal fans, principle organiser Lulu voiced a hard truth: that Sudan’s invisibility is rooted in anti-Blackness.
 
 “Just Africans fighting again,” she said, distilling the dismissiveness of the narratives that permeate mainstream media and government agendas. A stark reflection of how the violence in Sudan is trivialised, her words stuck like a slap.
 

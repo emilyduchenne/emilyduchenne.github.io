@@ -21,9 +21,9 @@ Back in November, I spoke to a member of the protest group London for Sudan abou
 
 “Just Africans fighting again,” she said, distilling the dismissiveness of the narratives that permeate mainstream media and government agendas. A stark reflection of how the violence in Sudan is trivialised, her words stuck like a slap.
 
-Anti-Blackness - the systemic devaluation and marginalisation of Black lives - is nothing new. Attributed to issues of racial empathy bias, the idea that we implicitly see the pain of others when our skin tones are more similar, and the fact that Western news outlets with a predominantly white audience are not drawing due attention to Sudan’s current crisis begins to make unfortunate sense. In this cruel arithmetic, Sudan’s plight is deemed unworthy of column inches or prime-time urgency.
+Anti-Blackness - the systemic devaluation and marginalisation of Black lives - is nothing new. Anti-Blackness—the systemic devaluation and marginalisation of Black lives—is entrenched in a legacy of historical exploitation and postcolonial neglect. It is not an inherent or inevitable bias but the result of structures and systems that have, over centuries, prioritised certain lives while rendering others invisible. 
 
-Yet the problem of anti-Blackness runs deep: Western indifference to Sudan’s pain is compounded by its unwillingness to confront its own complicity, where decades of British and Egyptian colonial rule left a fractured Sudan, its independence in 1956 birthing fault lines of ethnic, regional, religious, and political strife. 
+These issues of anti-Blackness run deep: Western indifference to Sudan’s pain is compounded by its unwillingness to confront its own complicity, where decades of British and Egyptian colonial rule left a fractured Sudan, its independence in 1956 birthing fault lines of ethnic, regional, religious, and political strife. 
 
 It is these legacies of global meddling and lack of accountability that leave Sudan’s suffering dismissed as a mere inevitability, another chapter in a tired story of African conflict.
 

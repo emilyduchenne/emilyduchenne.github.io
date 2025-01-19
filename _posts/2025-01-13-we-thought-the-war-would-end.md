@@ -50,4 +50,4 @@ The active role of countries like Saudi Arabia, Egypt, and the UAE, who continue
 
 The eerie media silence that surrounds Sudan, instilled by the coupling of historical forgetting and willing exploitation, threatens to render civilians like Duaa and protesters like Lulu invisible, their voices drowned out by waves of indifference. 
 
-Laid bare by Duaa’s testimony of being caught in the crossfires between proxies and power struggles, the war doesn’t lack horror - far from it. What it does lack, however, is an audience. 
+Laid bare by Duaa’s testimony of being caught in the crossfires between proxies and power struggles, the war clearly doesn’t lack horror - far from it. What it does lack, however, is an audience. 

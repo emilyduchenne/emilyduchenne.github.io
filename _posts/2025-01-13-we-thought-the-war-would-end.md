@@ -10,7 +10,9 @@ tags:
 
 A shaky video call on a grey November afternoon rings five times before connecting me to Duaa. She is almost 5,000 kilometres away, sitting on the floor of her family’s temporary accommodation, and calling me on a laptop that, like most university students, has what feels like her entire life on it. She apologises for any unstable connection, and then again for any incorrect English (the sign of a true polyglot, it seems to me). I insist that I’m sure that’s not the case, and anyhow, anything is better than my woeful Arabic. We share a laugh; joking seems hardly appropriate, but it’s what comes naturally.
 
-Duaa is one of 12 million Sudanese citizens displaced by a civil war that is consuming her country. She grew up in Omdurman, a large city in Khartoum State perched on the banks of the Nile; the skyline, once a warm mix of mosques and palm trees interspersed with skyscrapers and luxury hotels, now transformed into a battleground as the Sudanese Armed Forces (SAF) push back against the paramilitary Rapid Support Forces (RSF). An hour’s-old [BBC report](https://www.bbc.co.uk/news/articles/cly90w8vjyko) of a random shelling killing 120, with numbers expected to rise, signifies the magnitude of the crisis.
+Duaa is one of 12 million Sudanese citizens displaced by a civil war that is consuming her country. She grew up in Omdurman, a large city in Khartoum State perched on the banks of the Nile; the skyline, once a warm mix of mosques and palm trees interspersed with skyscrapers and luxury hotels, now transformed into a battleground as the Sudanese Armed Forces (SAF) push back against the paramilitary Rapid Support Forces (RSF). 
+
+An hour’s-old [BBC report](https://www.bbc.co.uk/news/articles/cly90w8vjyko) of a random shelling killing 120, with numbers expected to rise, signifies the magnitude of the crisis.
 
 “We tried to stay as long as we could,” says Duaa, recalling the first five months after war broke out. “We thought it would end soon. But during these five months, there were people being killed, and a lot of checkpoints where citizens are imprisoned… it was difficult to live there.”
 
@@ -26,7 +28,9 @@ A web of geopolitical interests constricts Sudan, choking its people and casting
 
 To obscure matters further, Sudan’s conflict isn’t merely a case of proxy warmongering between antagonistic nations. Egypt and the UAE, the two main external backers of the SAF and RSF respectively, demonstrate this clearly as they maintain close diplomatic ties, despite supporting opposing factions. Their involvement in Sudan is not indicative of a direct rivalry, but of strategic calculations that are rooted in personal regional interests.
 
-As the violence showed no signs of abating, Duaa and her family fled to the North of the country in August 2023, when the local neighbourhood defence could hold off the marauding RSF no longer. Insisting that she is “lucky to be displaced”, the occasional internet connection and unwavering support from her supervisor and colleagues has been just enough for Duaa to slowly continue her architecture studies with Khartoum University. She has even managed to [present a paper](https://www.linkedin.com/feed/update/urn:li:activity:7232783975314853888/) on the use of AI in the revitalisation of cultural heritage in Kigali aged just 22 - a huge achievement for anyone, let alone a young woman caught in the crossfires of a bloody civil war.
+As the violence showed no signs of abating, Duaa and her family fled to the North of the country in August 2023, when the local neighbourhood defence could hold off the marauding RSF no longer. 
+
+Insisting that she is “lucky to be displaced”, the occasional internet connection and unwavering support from her supervisor and colleagues has been just enough for Duaa to slowly continue her architecture studies with Khartoum University. She has even managed to [present a paper](https://www.linkedin.com/feed/update/urn:li:activity:7232783975314853888/) on the use of AI in the revitalisation of cultural heritage in Kigali aged just 22 - a huge achievement for anyone, let alone a young woman caught in the crossfires of a bloody civil war.
 
 When I ask Duaa what she misses most about her life back in Omdurman, she thinks for a moment. There are a lot of things to miss. Spending time with friends, revising for exams, walking around the university campus, eating meals cooked with love and patience. Once-ordinary moments, now on hold indefinitely.
 
@@ -44,4 +48,6 @@ Rather than an oversight, this complicity in Sudan’s fractures, combined with 
 
 The active role of countries like Saudi Arabia, Egypt, and the UAE, who continue to bloody their hands by arming and financing the warring factions while engaging in strategic distractions such as sportswashing, further underscores the complicity of a world that allows these contradictions to persist. The coupling of historical forgetting and willing exploitation is silencing Sudan, its suffering overshadowed by a cocktail of greed and global indifference.
 
-The eerie media silence that surrounds Sudan, instilled by the coupling of historical forgetting and willing exploitation, threatens to render civilians like Duaa and protesters like Lulu invisible, their voices drowned out by waves of indifference. Laid bare by Duaa’s testimony of being caught in the crossfires between proxies and power struggles, the war doesn’t lack horror - far from it. What it does lack, however, is an audience. 
+The eerie media silence that surrounds Sudan, instilled by the coupling of historical forgetting and willing exploitation, threatens to render civilians like Duaa and protesters like Lulu invisible, their voices drowned out by waves of indifference. 
+
+Laid bare by Duaa’s testimony of being caught in the crossfires between proxies and power struggles, the war doesn’t lack horror - far from it. What it does lack, however, is an audience. 

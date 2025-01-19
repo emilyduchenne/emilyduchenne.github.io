@@ -20,7 +20,7 @@ Looking back, this bittersweet optimism of Duaa and her family was the writing o
 
 These predictions did not play out. Describing Sudan’s situation as a “war of agency”, with the Dagalo militia conducting a “genocide war without any clear goals or demands”, Duaa pauses as she remembers the abrupt escalation of violence as the RSF grew in strength and numbers.
 
-“Suddenly the soldiers were everywhere, with powerful weapons. They were waging war against the citizens - and many of them weren’t even Sudanese. We didn’t know where they came from. I’m not an expert, but as a citizen, I’m sure there is something going on. It has become a survival war for the state and the citizen” Her voice cracks.
+“Suddenly the soldiers were everywhere, with powerful weapons. They were waging war against the citizens - and many of them weren’t even Sudanese. We didn’t know where they came from. I’m not an expert, but I’m sure there is something going on. It has become a survival war for the state and the citizen.” Her voice cracks.
 
 Yet with the conflict now entering its 21st month, Duaa’s testimony reveals far more than a struggle for power between two megalomanic generals; it nods to the inner workings of a war that is being waged not just within Sudan, but from afar.
 

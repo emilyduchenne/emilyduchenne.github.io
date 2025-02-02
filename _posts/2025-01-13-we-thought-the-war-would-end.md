@@ -1,5 +1,5 @@
 ---
-title: "“We Thought The War Would End”: Why is Sudan's Conflict Still Raging On?"
+title: "“We Thought The War Would End”: Why Sudan's Conflict Rages On"
 categories:
   - Blog
 tags:

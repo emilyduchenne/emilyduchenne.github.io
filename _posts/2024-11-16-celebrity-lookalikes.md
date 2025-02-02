@@ -1,5 +1,5 @@
 ---
-title: "Why the Celebrity Lookalike Craze shows that the kids are alright"
+title: "Why the Celebrity Lookalike Craze Shows That The Kids Are Alright"
 categories:
   - Blog
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "“`Hebron is M`y Land. Why Do I Have to be Afraid?"
+title: "Hebron is My Land. Why Do I Have to be Afraid?"
 categories:
   - Blog
 tags:

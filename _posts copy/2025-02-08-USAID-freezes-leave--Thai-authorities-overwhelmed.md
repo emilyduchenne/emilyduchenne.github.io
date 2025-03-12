@@ -13,7 +13,7 @@ Thai hospitals are discharging thousands of Myanmar refugees requiring urgent ca
 
 With more than 80,000 refugees from Myanmar’s ethnic minorities sheltering in camps along the Thai border, humanitarian agencies are warning of an escalating crisis in a region heavily dependent on international aid.
 
-Speaking at a press conference on the 7th of February, 2025, Sylvia Manchester of The News described the situation as "chaotic," warning that the cuts have thrown humanitarian operations into disarray. 
+Speaking at a press conference on the 7th of February, 2025, Sylvia Manchester* of The News* described the situation as "chaotic," warning that the cuts have thrown humanitarian operations into disarray. 
 
 “Myanmar has been very badly affected in a lot of different ways,” she said. “The US is the largest donor to a huge humanitarian operation - everything from food deliveries to shelter and sanitation, as well as support for human rights organisations, civil society groups, and independent media.”
 
@@ -32,3 +32,5 @@ With already limited access to healthcare, Hasan pointed to rising gang violence
 Humanitarian funding for Rohingya refugees has reached critically low levels; as of the 31st of October, 2024, the Joint Response Plan (JRP) for the Rohingya refugee crisis received just over half of the estimated required funds - $452.1 million against an appeal of $852.4 million.
 
 As aid agencies scramble to find alternative funding sources, the humanitarian situation in Myanmar’s refugee communities remains increasingly precarious. While Thai authorities have pledged to step in for the time being, concerns are growing over how long Myanmar’s displaced populations can survive without widespread assistance.
+
+*real names not used

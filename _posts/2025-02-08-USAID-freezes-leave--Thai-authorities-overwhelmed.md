@@ -27,7 +27,7 @@ The USAID freeze is also worsening conditions in Bangladesh’s Rohingya camps, 
 
 Anamul Hasan, a journalist and Rohingya rights activist based in Cox’s Bazar, described the cuts as exacerbating an already dire situation: “Many already suffer from chronic diseases like Hepatitis C and diabetes. We’re likely going to see things get much worse.” 
 
-Hihglighting an MSF survey that revealed the estimated prevalence rate of Hepatitis C  to be 28 per cent in Rohingya camps, compared to the general prevalence rate of the disease in Bangladesh as between 0.2-1 per cent, Hasan emphasised how of refugees continue to suffer.
+Hihglighting an MSF survey that revealed the estimated prevalence rate of Hepatitis C  to be 28 per cent in Rohingya camps, compared to the general prevalence rate of the disease in Bangladesh as between 0.2-1 per cent, Hasan emphasised how refugees continue to suffer.
 
 With already limited access to healthcare, Hasan pointed to rising gang violence as a direct result of such insecurity. “When needs aren’t being met, people [become] vulnerable to exploitation and trafficking,” he said, warning that groups within the camps were already taking advantage of the circumstances.
 

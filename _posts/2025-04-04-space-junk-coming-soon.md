@@ -8,13 +8,13 @@ tags:
   - Technology
 ---
 
-At 3:54 pm local time yesterday, a Falcon 9 SpaceX rocket launched from California’s Vandenberg Space Force Base into Earth’s lower orbit. On this rocket were 27 Starlink V2 Mini satellites, designed to provide internet access to remote locations across the globe. 
+<p align="justify">At 3:54 pm local time yesterday, a Falcon 9 SpaceX rocket launched from California’s Vandenberg Space Force Base into Earth’s lower orbit. On this rocket were 27 Starlink V2 Mini satellites, designed to provide internet access to remote locations across the globe. 
 
 Missed the launch? Don’t worry - there’s one tomorrow, taking off from Florida with a batch of Starlink 6-72 satellites in tow. And another, this time from Jeff Bezoz’s Amazon, blasting into orbit on April 9th, carrying the company’s newly-developed Kuiper internet satellites with it. In fact, this April alone, there will be 13 rocket launches by space agencies and private companies across the world, all looking to make their mark in space. That’s more than 3 a week. And this explosion of spacefaring activity is leading to scientists voicing their concerns - less about the missions themselves, [but what they’re leaving behind](https://fas.org/publication/how-do-you-clean-up-170-million-pieces-of-space-junk/). 
 
 Could we be running out of space - in space?
 
-<u>What’s the Big Deal about Space Debris<u>
+<u>What’s the Big Deal about Space Debris</u>
 
 Space debris, or space junk as it’s better known, is a problem out of science fiction, coming to a planet near you. But what even is it, you might be wondering. They are [non-operational, human-made objects over 1cm travelling in the Low Earth Orbit (LEO)](https://www.esa.int/Space_Safety/Clean_Space/ESA_s_Zero_Debris_approach): in other words, the junk left over from space missions orbiting round our cosmic backgarden.
 
@@ -30,7 +30,7 @@ This isn’t helped by something called Kessler’s Syndrone - which is essentia
 
 And then we're also creating a situation where there's a sort of chaos effect of collisions causing more collisions, where you can't predict how and when things are going to fall back into the Earth. Suddenly it's not one or two pieces every day, it's several pieces.”
 
-<u>Satellite Central<u>
+<u>Satellite Central</u>
 
 This cosmic waste isn’t just a problem in space - it’s going to affect life down here too, and more than you think. Our lives are made easier by the satellites up above our heads, connecting us to the internet, improving mapping systems, weather prediction, and even keeping global systems like banking and air travel running smoothly. But what if space is simply too full?
 
@@ -42,7 +42,7 @@ It’s not just urban dwellers that will be affected. Despite delivering interne
 
 “Most indigenous people in North America live in more rural reserves, away from commercial centres. If junk comes down there, people are less likely to pay attention, or get necessary help. And because of all this debris and satellites, we are also having issues with light pollution. The whole night sky is getting brighter, changing how indigenous people are able to navigate and tell stories.”
 
-<u>Unidentified Falling Objects<u>
+<u>Unidentified Falling Objects</u>
 
 It’s not just convenience that will take a hit - Earth itself stands in the firing line. The European Space Agency (ESA) released estimations that objects measuring 1-metre or larger reenter Earth's atmosphere approximately once a week, while smaller tracked debris objects reenter on average twice daily. 
 
@@ -58,7 +58,7 @@ While these may seem for now like freak accidents, physicist Professor Richard O
 
 “ We may be crossing that red line of no return. It would be very sad to have a disaster happen, like space debris landing on a military installation, before we take it seriously. And unfortunately in my, in my view, it would be too late, because people would've lost their lives.”
 
-<u>Can We Clean Up the Cosmos?<u>
+<u>Can We Clean Up the Cosmos?</u>
 
 For any atsro-chondriacs out there, some solutions are on the horizon, says Ocaya - though they remain in the early days of such development. “Deorbiting these objects in a controlled fashion will help. One thinks of robotic arms, nets or harpoons. Japan is experimenting with wooden satellites that are guaranteed to burn on reentry. One could even use lasers that could disintegrate these objects in space -  but you would need extremely high powered lasers to do that.”
 
@@ -72,4 +72,4 @@ With such laissez-faire attitudes a norm in the industry, Ocaya warns that waiti
 
 “Space is a frontier, and I’m not saying we shouldn’t explore it, we should.  But we should do so very responsibly. We've seen, the effects of global warming and the climate. We don’t want to repeat mistakes like this. But the space debris problem is following the same patterns of human thinking.”
 
-While the solutions exist, it will take swift and coordinated action to avert our nearest orbit becoming overcrowded cosmic chaos. As it stands, the message is clear: Houston, we have a problem.
+While the solutions exist, it will take swift and coordinated action to avert our nearest orbit becoming overcrowded cosmic chaos. As it stands, the message is clear: Houston, we have a problem.</p>

@@ -10,13 +10,13 @@ tags:
 
 At 3:54 pm local time yesterday, a Falcon 9 SpaceX rocket launched from California’s Vandenberg Space Force Base into Earth’s lower orbit. On this rocket were 27 Starlink V2 Mini satellites, designed to provide internet access to remote locations across the globe. 
 
-Missed the launch? Don’t worry - there’s one tomorrow, taking off from Florida with a batch of Starlink 6-72 satellites in tow. And another, this time from Jeff Bezoz’s Amazon, blasting into orbit on April 9th, carrying the company’s newly-developed Kuiper internet satellites with it. In fact, this April alone, there will be 13 rocket launches by space agencies and private companies across the world, all looking to make their mark in space. That’s more than 3 a week. And this explosion of spacefaring activity is leading to scientists voicing their concerns - less about the missions themselves, [but what they’re leaving behind] (https://fas.org/publication/how-do-you-clean-up-170-million-pieces-of-space-junk/). 
+Missed the launch? Don’t worry - there’s one tomorrow, taking off from Florida with a batch of Starlink 6-72 satellites in tow. And another, this time from Jeff Bezoz’s Amazon, blasting into orbit on April 9th, carrying the company’s newly-developed Kuiper internet satellites with it. In fact, this April alone, there will be 13 rocket launches by space agencies and private companies across the world, all looking to make their mark in space. That’s more than 3 a week. And this explosion of spacefaring activity is leading to scientists voicing their concerns - less about the missions themselves, [but what they’re leaving behind](https://fas.org/publication/how-do-you-clean-up-170-million-pieces-of-space-junk/). 
 
 Could we be running out of space - in space?
 
 <u>What’s the Big Deal about Space Debris<u>
 
-Space debris, or space junk as it’s better known, is a problem out of science fiction, coming to a planet near you. But what even is it, you might be wondering. They are [non-operational, human-made objects over 1cm travelling in the Low Earth Orbit (LEO)] (https://www.esa.int/Space_Safety/Clean_Space/ESA_s_Zero_Debris_approach): in other words, the junk left over from space missions orbiting round our cosmic backgarden.
+Space debris, or space junk as it’s better known, is a problem out of science fiction, coming to a planet near you. But what even is it, you might be wondering. They are [non-operational, human-made objects over 1cm travelling in the Low Earth Orbit (LEO)](https://www.esa.int/Space_Safety/Clean_Space/ESA_s_Zero_Debris_approach): in other words, the junk left over from space missions orbiting round our cosmic backgarden.
 
 While this includes defunct satellites, rocket parts and collision collateral, most are as small as a paint chip. However, this doesn’t mean it’s harmless, according to Dr Olivia Drayson from the GSI Helmholtz Centre for Heavy Ion Research. When moving at 18,000 mph, which is 7x the speed of a bullet, these fragments “can cause a huge amount of damage, puncturing spacecraft or posing risks to astronauts on spacewalks.”
 
@@ -50,7 +50,7 @@ The good news is that, during the final 110km of the debris’ journey, or “th
 
 And in the event of larger objects, such as heavy scientific satellites that are constructed from high-melting-point materials such as stainless steel or titanium, the rate of reentry into the Earth’s atmosphere decreases to about once a year. Even in these cases, as humans inhabit roughly 10% of the Earth’s surface, “the risk to any single individual is several orders of magnitude smaller than commonly accepted risks faced in daily life. Being struck by lightning, for example, is 60 000 times more likely.”
 
-However, the odds seem to be changing: on New Year’s Eve 2023, rural Kenyans in Makueni county woke up to a [500kg metallic rocket ring] (https://www.bbc.com/news/articles/clyn9dgdwe3o) crashing into their village. Although no one was injured, the rattled community of Mukuku village described a burning ring that was “glowing red-hot” for hours. Inquiries as to where exactly this defunct piece of rocket came from remain ongoing.
+However, the odds seem to be changing: on New Year’s Eve 2023, rural Kenyans in Makueni county woke up to a [500kg metallic rocket ring](https://www.bbc.com/news/articles/clyn9dgdwe3o) crashing into their village. Although no one was injured, the rattled community of Mukuku village described a burning ring that was “glowing red-hot” for hours. Inquiries as to where exactly this defunct piece of rocket came from remain ongoing.
 
 And this isn’t the only incident recorded. In July 2023, a mysterious cylindrical object washed up on a beach in Western Australia, baffling locals and sending the international press spinning. An investigation revealed it to be the remains of an Indian rocket booster.
 

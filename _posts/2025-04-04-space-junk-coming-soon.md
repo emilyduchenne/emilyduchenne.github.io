@@ -8,37 +8,35 @@ tags:
   - Technology
 ---
 
-<p align="justify">At 3:54 pm local time yesterday, a Falcon 9 SpaceX rocket launched from California’s Vandenberg Space Force Base into Earth’s lower orbit. On this rocket were 27 Starlink V2 Mini satellites, designed to provide internet access to remote locations across the globe. 
+<p align="justify">At 3:54 pm local time yesterday, a Falcon 9 SpaceX rocket launched from California’s Vandenberg Space Force Base into Earth’s lower orbit. On this rocket were 27 Starlink V2 Mini satellites, designed to provide internet access to remote locations across the globe.</p>
 
-Missed the launch? Don’t worry - there’s one tomorrow, taking off from Florida with a batch of Starlink 6-72 satellites in tow. And another, this time from Jeff Bezoz’s Amazon, blasting into orbit on April 9th, carrying the company’s newly-developed Kuiper internet satellites with it. In fact, this April alone, there will be 13 rocket launches by space agencies and private companies across the world, all looking to make their mark in space. That’s more than 3 a week. And this explosion of spacefaring activity is leading to scientists voicing their concerns - less about the missions themselves, [but what they’re leaving behind](https://fas.org/publication/how-do-you-clean-up-170-million-pieces-of-space-junk/). 
+<p align="justify">Missed the launch? Don’t worry - there’s one tomorrow, taking off from Florida with a batch of Starlink 6-72 satellites in tow. And another, this time from Jeff Bezoz’s Amazon, blasting into orbit on April 9th, carrying the company’s newly-developed Kuiper internet satellites with it. In fact, this April alone, there will be 13 rocket launches by space agencies and private companies across the world, all looking to make their mark in space. That’s more than 3 a week. And this explosion of spacefaring activity is leading to scientists voicing their concerns - less about the missions themselves, [but what they’re leaving behind](https://fas.org/publication/how-do-you-clean-up-170-million-pieces-of-space-junk/). 
 
-Could we be running out of space - in space?
+Could we be running out of space - in space?</p>
 
 <u>What’s the Big Deal about Space Debris</u>
 
-Space debris, or space junk as it’s better known, is a problem out of science fiction, coming to a planet near you. But what even is it, you might be wondering. They are [non-operational, human-made objects over 1cm travelling in the Low Earth Orbit (LEO)](https://www.esa.int/Space_Safety/Clean_Space/ESA_s_Zero_Debris_approach): in other words, the junk left over from space missions orbiting round our cosmic backgarden.
+<p align="justify">Space debris, or space junk as it’s better known, is a problem out of science fiction, coming to a planet near you. But what even is it, you might be wondering. They are [non-operational, human-made objects over 1cm travelling in the Low Earth Orbit (LEO)](https://www.esa.int/Space_Safety/Clean_Space/ESA_s_Zero_Debris_approach): in other words, the junk left over from space missions orbiting round our cosmic backgarden.
 
-While this includes defunct satellites, rocket parts and collision collateral, most are as small as a paint chip. However, this doesn’t mean it’s harmless, according to Dr Olivia Drayson from the GSI Helmholtz Centre for Heavy Ion Research. When moving at 18,000 mph, which is 7x the speed of a bullet, these fragments “can cause a huge amount of damage, puncturing spacecraft or posing risks to astronauts on spacewalks.”
+<p align="justify">While this includes defunct satellites, rocket parts and collision collateral, most are as small as a paint chip. However, this doesn’t mean it’s harmless, according to Dr Olivia Drayson from the GSI Helmholtz Centre for Heavy Ion Research. When moving at 18,000 mph, which is 7x the speed of a bullet, these fragments “can cause a huge amount of damage, puncturing spacecraft or posing risks to astronauts on spacewalks.”
 
-Though it might sound a bit far-fetched, this is a problem that is rapidly getting worse. We currently have 170 million pieces of space junk whizzing around the Earth at these incredible speeds, all ready to cause billions of dollars worth of damage to the satellites and space stations they pass by. Repairing such damage is now simply part of routine for astronauts on missions; and with the number of missions rising year on year, as private companies such as SpaceX and Amazon send more and more rockets into lower orbit, the amount of junk, and risk of damage, is going to increase exponentially. 
+<p align="justify">Though it might sound a bit far-fetched, this is a problem that is rapidly getting worse. We currently have 170 million pieces of space junk whizzing around the Earth at these incredible speeds, all ready to cause billions of dollars worth of damage to the satellites and space stations they pass by. Repairing such damage is now simply part of routine for astronauts on missions; and with the number of missions rising year on year, as private companies such as SpaceX and Amazon send more and more rockets into lower orbit, the amount of junk, and risk of damage, is going to increase exponentially. 
 
-This isn’t helped by something called Kessler’s Syndrone - which is essentially a chain reaction where collisions between pieces of junk create more junk, as objects shatter and more debris is produced. It’s such a concern that scientists like Drayson are worried the LEO will be completely unusable for space travel in the near future.
+<p align="justify">This isn’t helped by something called Kessler’s Syndrone - which is essentially a chain reaction where collisions between pieces of junk create more junk, as objects shatter and more debris is produced. It’s such a concern that scientists like Drayson are worried the LEO will be completely unusable for space travel in the near future.
 
- we are approaching a point where certain orbits are getting so crowded that we could, um, end up creating a, uh, cascade of collisions.
+<p align="justify">“Each collision creates debris, which then goes on to create more collisions, and could end up creating orbits that are completely unusable, just filled with nothing but debris. So realistically, we're creating an environment where satellites will have a hard time going past a certain point, or they'll need to really time it carefully.
 
-“Each collision creates debris, which then goes on to create more collisions, and could end up creating orbits that are completely unusable, just filled with nothing but debris. So realistically, we're creating an environment where satellites will have a hard time going past a certain point, or they'll need to really time it carefully.
-
-And then we're also creating a situation where there's a sort of chaos effect of collisions causing more collisions, where you can't predict how and when things are going to fall back into the Earth. Suddenly it's not one or two pieces every day, it's several pieces.”
+<p align="justify">And then we're also creating a situation where there's a sort of chaos effect of collisions causing more collisions, where you can't predict how and when things are going to fall back into the Earth. Suddenly it's not one or two pieces every day, it's several pieces.”
 
 <u>Satellite Central</u>
 
-This cosmic waste isn’t just a problem in space - it’s going to affect life down here too, and more than you think. Our lives are made easier by the satellites up above our heads, connecting us to the internet, improving mapping systems, weather prediction, and even keeping global systems like banking and air travel running smoothly. But what if space is simply too full?
+<p align="justify">This cosmic waste isn’t just a problem in space - it’s going to affect life down here too, and more than you think. Our lives are made easier by the satellites up above our heads, connecting us to the internet, improving mapping systems, weather prediction, and even keeping global systems like banking and air travel running smoothly. But what if space is simply too full?
 
-SpaceX currently have over 7000 satellites in our low orbit, providing connectivity across the globe. However, the $350 billion company’s ambitious plan to expand this into a “megaconstellation” of 42,000 satellites raises serious concerns about space congestion, and the growing threat of orbital debris.
+<p align="justify">SpaceX currently have over 7000 satellites in our low orbit, providing connectivity across the globe. However, the $350 billion company’s ambitious plan to expand this into a “megaconstellation” of 42,000 satellites raises serious concerns about space congestion, and the growing threat of orbital debris.
 
-Imagine trying to get home using Google Maps - but the GPS signal is down because of a satellite crash. Or your flight gets grounded because a weather satellite was knocked offline. Even something as routine as tapping your card could stop working. Space debris might seem distant. But in a world that runs on satellites, it’s anything but.
+<p align="justify">Imagine trying to get home using Google Maps - but the GPS signal is down because of a satellite crash. Or your flight gets grounded because a weather satellite was knocked offline. Even something as routine as tapping your card could stop working. Space debris might seem distant. But in a world that runs on satellites, it’s anything but.
 
-It’s not just urban dwellers that will be affected. Despite delivering internet connection to hundreds of millions of people, these megaconstellations disproportionately impacting Indigenous communities across the world, says Mi'kmaw interdisciplinary scientist Dr Hilding Neilson. 
+<p align="justify">It’s not just urban dwellers that will be affected. Despite delivering internet connection to hundreds of millions of people, these megaconstellations disproportionately impacting Indigenous communities across the world, says Mi'kmaw interdisciplinary scientist Dr Hilding Neilson. 
 
 “Most indigenous people in North America live in more rural reserves, away from commercial centres. If junk comes down there, people are less likely to pay attention, or get necessary help. And because of all this debris and satellites, we are also having issues with light pollution. The whole night sky is getting brighter, changing how indigenous people are able to navigate and tell stories.”
 
@@ -72,4 +70,4 @@ With such laissez-faire attitudes a norm in the industry, Ocaya warns that waiti
 
 “Space is a frontier, and I’m not saying we shouldn’t explore it, we should.  But we should do so very responsibly. We've seen, the effects of global warming and the climate. We don’t want to repeat mistakes like this. But the space debris problem is following the same patterns of human thinking.”
 
-While the solutions exist, it will take swift and coordinated action to avert our nearest orbit becoming overcrowded cosmic chaos. As it stands, the message is clear: Houston, we have a problem.</p>
+While the solutions exist, it will take swift and coordinated action to avert our nearest orbit becoming overcrowded cosmic chaos. As it stands, the message is clear: Houston, we have a problem.

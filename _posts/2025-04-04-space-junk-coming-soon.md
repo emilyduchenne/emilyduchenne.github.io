@@ -12,7 +12,7 @@ At 3:54 pm local time yesterday, a Falcon 9 SpaceX rocket launched from Californ
 
 Missed the launch? Don’t worry - there’s one tomorrow, taking off from Florida with a batch of Starlink 6-72 satellites in tow. And another, this time from Jeff Bezoz’s Amazon, blasting into orbit on April 9th, carrying the company’s newly-developed Kuiper internet satellites with it. In fact, this April alone, there will be 13 rocket launches by space agencies and private companies across the world, all looking to make their mark in space. That’s more than 3 a week. And this explosion of spacefaring activity is leading to scientists voicing their concerns - less about the missions themselves, [but what they’re leaving behind](https://fas.org/publication/how-do-you-clean-up-170-million-pieces-of-space-junk/). 
 
-Could we be running out of space - in space?</p>
+Could we be running out of space - in space?
 
 <u>What’s the Big Deal about Space Debris</u>
 
@@ -64,7 +64,9 @@ Yet these technologies, while exciting, are still in their nascent stages. More 
 
 “It's a problem that affects everyone, but unfortunately, when it comes to private companies and competitions between different countries, it becomes extremely difficult to regulate these things.  And many of these objects are militaristic nature, so the creators may not be too keen on disclosing location, functionalities and so on. Their best hope is that when these objects fail, they will burn out in the atmosphere.”
 
-With thousands of new satellites expected to populate LEO in the coming years, the unchecked growth of space traffic and the subsequent accumulation of debris could quickly outpace efforts to mitigate it. While international policies, such as the 1972 Liability Convention, establish that countries are responsible for damages caused by their space objects, enforcement remains inconsistent. The Convention has been formally invoked only once - in 1978, when debris from the Soviet satellite Kosmos 954 crashed in Canada, leading to a settlement of $3 million Canadian dollars. To put this in perspective, the rocket ring that crash landed in rural Kenya has never been officially linked with any state.
+With thousands of new satellites expected to populate LEO in the coming years, the unchecked growth of space traffic and the subsequent accumulation of debris could quickly outpace efforts to mitigate it. While international policies, such as the 1972 Liability Convention, establish that countries are responsible for damages caused by their space objects, enforcement remains inconsistent. 
+
+In fact, the Convention has been formally invoked only once - in 1978, when debris from the [Soviet satellite Kosmos 954 crashed in Canada](https://www.businessinsider.com/flashback-soviet-satellite-exploded-scattering-nuclear-debris-over-canada-2023-12), leading to a settlement of $3 million Canadian dollars. To put this in perspective, the rocket ring that crash landed in rural Kenya has never been officially linked with any state.
 
 With such laissez-faire attitudes a norm in the industry, Ocaya warns that waiting for a shift in international policy and attitudes amounts to reclkessness.
 

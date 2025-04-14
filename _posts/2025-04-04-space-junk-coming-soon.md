@@ -50,7 +50,7 @@ The good news is that, during the final 110km of the debris’ journey, or “th
 
 And in the event of larger objects, such as heavy scientific satellites that are constructed from high-melting-point materials such as stainless steel or titanium, the rate of reentry into the Earth’s atmosphere decreases to about once a year. Even in these cases, as humans inhabit roughly 10% of the Earth’s surface, “the risk to any single individual is several orders of magnitude smaller than commonly accepted risks faced in daily life. Being struck by lightning, for example, is 60 000 times more likely.”
 
-However, the odds seem to be changing: on New Year’s Eve 2023, rural Kenyans in Makueni county woke up to a 500kg metallic rocket ring crashing into their village. Although no one was injured, the rattled community of Mukuku village described a burning ring that was “glowing red-hot” for hours. Inquiries as to where exactly this defunct piece of rocket came from remain ongoing.
+However, the odds seem to be changing: on New Year’s Eve 2023, rural Kenyans in Makueni county woke up to a [500kg metallic rocket ring] (https://www.bbc.com/news/articles/clyn9dgdwe3o) crashing into their village. Although no one was injured, the rattled community of Mukuku village described a burning ring that was “glowing red-hot” for hours. Inquiries as to where exactly this defunct piece of rocket came from remain ongoing.
 
 And this isn’t the only incident recorded. In July 2023, a mysterious cylindrical object washed up on a beach in Western Australia, baffling locals and sending the international press spinning. An investigation revealed it to be the remains of an Indian rocket booster.
 

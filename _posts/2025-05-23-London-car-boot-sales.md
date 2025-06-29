@@ -1,10 +1,10 @@
 ---
-title: "title"
+title: "London’s car boot sales have become fashion design testing labs"
 categories:
   - Blog
 tags:
-  - resistance
-  - everyday
+  - Fashion
+  - Sustainability
   - Eco-friendly
   - Environment
-link: https://www.thegreensideofpink.com/design-en/art/2023/green-artists-making-waves-across-the-world/?lang=en
+link: https://www.dazeddigital.com/fashion/article/66891/1/london-car-boot-sale-peckham-dalston-fashion-design-vintage-reseller

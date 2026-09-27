@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Hackney Marshes, where east London plays by its own rules",
+    "sub": "Saved from 19th-century developers and reshaped by wartime rubble, this patchwork green space now hosts nearly 90 football pitches, rare urban wildlife, canal boats and raves.",
+    "outlet": "FT Globetrotter",
+    "date": "2026-08-05",
+    "image": "assets/articles/hackney-marshes.png",
+    "url": "https://www.ft.com/content/1ba03042-06c1-4631-a898-2e1c59c89493"
+  },
+  {
+    "title": "Dark Tales",
+    "sub": "In print in FT Weekend.",
+    "outlet": "FT Weekend",
+    "date": "2023-06-01",
+    "image": "assets/articles/dark-tales.png",
+    "url": "https://www.ft.com/"
+  },
+  {
+    "title": "Eggs",
+    "sub": "In HTSI, the FT Weekend magazine.",
+    "outlet": "HTSI",
+    "date": "2023-01-01",
+    "image": "assets/articles/eggs.png",
+    "url": "https://www.ft.com/htsi"
+  },
+  {
+    "title": "John Gossage",
+    "sub": "In print.",
+    "outlet": "Print",
+    "date": "2022-06-01",
+    "image": "assets/articles/john-gossage.png",
+    "url": "#"
+  }
+]

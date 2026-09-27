@@ -1,7 +1,132 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Emily Duchenne — Journalist</title>
+<meta name="description" content="Emily Duchenne is a London-based journalist working across video and print. Watch her latest Instagram reels and read her published articles.">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Emily Duchenne — Journalist">
+<meta property="og:description" content="London-based journalist working across video and print.">
+<meta property="og:image" content="assets/emily-hero.jpeg">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&family=Reenie+Beanie&display=swap">
+<link rel="stylesheet" href="css/styles.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Emily Duchenne",
+  "jobTitle": "Journalist",
+  "email": "hello@emilyduchenne.com",
+  "sameAs": [
+    "https://www.instagram.com/_emthejourno/",
+    "https://www.linkedin.com/in/emilyduchenne/"
+  ]
+}
+</script>
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="site-nav__links">
+    <a href="#work">My Work</a>
+    <a href="#about">About &amp; Contact</a>
+  </div>
+  <a href="https://www.instagram.com/_emthejourno/" target="_blank" rel="noopener">@_emthejourno</a>
+</nav>
+
+<div class="wrap">
+  <header class="hero">
+    <div class="hero__intro">
+      <h1 class="hero__name">Emily<br><em>Duchenne</em></h1>
+      <div class="hero__bio">
+        <p>I'm a London-based journalist working across multiple platforms to tell the stories I think are worth hearing.</p>
+        <p>I've been published in international, national and local media including the FT, Dazed and CGTN Europe.</p>
+      </div>
+    </div>
+    <div class="hero__photo">
+      <div class="hero__photo-block" aria-hidden="true"></div>
+      <div class="hero__photo-frame">
+        <img src="assets/emily-hero.jpeg" alt="Emily Duchenne">
+      </div>
+      <span class="hero__caption" aria-hidden="true">hi, that's me ↑</span>
+    </div>
+  </header>
+
+  <section id="work" class="work" aria-label="Latest work">
+    <div class="work__masthead">
+      <div class="work__masthead-rule"></div>
+      <div class="work__heading-row">
+        <div class="work__title-group">
+          <h2 class="work__title">My Work</h2>
+          <span class="work__hint" aria-hidden="true">tap any video to watch</span>
+        </div>
+        <div class="work__tabs" role="tablist" aria-label="Filter work by type">
+          <button type="button" class="work__tab" data-filter="all" role="tab" aria-pressed="true">All</button>
+          <button type="button" class="work__tab" data-filter="video" role="tab" aria-pressed="false">Video</button>
+          <button type="button" class="work__tab" data-filter="article" role="tab" aria-pressed="false">Writing</button>
+        </div>
+      </div>
+      <div class="work__dateline">
+        <span>Video &amp; Writing</span><span>By Emily Duchenne</span><a href="https://www.instagram.com/_emthejourno/" target="_blank" rel="noopener">@_emthejourno</a>
+      </div>
+    </div>
+
+    <div class="work__feed" id="workFeed"></div>
+
+    <nav class="pagination" id="pagination" aria-label="Work pages" hidden></nav>
+  </section>
+
+  <section id="about" class="about" aria-label="About and contact">
+    <div class="about__grid">
+      <div class="about__col">
+        <span class="about__label">About</span>
+        <p class="about__lead">I'm a London-based journalist working across multiple platforms to tell the stories I think are worth hearing.</p>
+        <p class="about__body">I've been published in international, national and local media including the FT, Dazed and CGTN Europe.</p>
+        <div class="about__education">
+          <span class="about__label about__education-label">Education</span>
+          <div class="about__education-row"><span>International Journalism, City University</span><span>MA</span></div>
+          <div class="about__education-row"><span>University of Oxford</span><span>MSC &amp; BA</span></div>
+        </div>
+      </div>
+      <div class="contact-card">
+        <span class="contact-card__label">Contact</span>
+        <span class="contact-card__heading">Say hello.</span>
+        <div class="contact-card__links">
+          <a class="contact-card__link" href="mailto:hello@emilyduchenne.com"><span>Email</span><span>hello@emilyduchenne.com →</span></a>
+          <a class="contact-card__link" href="https://www.instagram.com/_emthejourno/" target="_blank" rel="noopener"><span>Instagram</span><span>@_emthejourno ↗</span></a>
+          <a class="contact-card__link" href="https://www.linkedin.com/in/emilyduchenne/" target="_blank" rel="noopener"><span>LinkedIn</span><span>emilyduchenne ↗</span></a>
+        </div>
+      </div>
+    </div>
+    <div class="about__footer">
+      <span>Emily Duchenne</span><span>© 2026</span>
+    </div>
+  </section>
+</div>
+
+<div class="lightbox" id="lightbox" hidden role="dialog" aria-modal="true" aria-labelledby="lightboxTitle">
+  <div class="lightbox__player">
+    <img id="lightboxImg" src="" alt="">
+  </div>
+  <div class="lightbox__info">
+    <span class="lightbox__label" id="lightboxLabel"></span>
+    <span class="lightbox__title" id="lightboxTitle"></span>
+    <span class="lightbox__sub" id="lightboxSub"></span>
+    <div class="lightbox__actions">
+      <a class="btn btn--primary" id="lightboxLink" href="#" target="_blank" rel="noopener">Watch on Instagram</a>
+      <button type="button" class="btn btn--secondary" id="lightboxClose">Close</button>
+    </div>
+  </div>
+</div>
+
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

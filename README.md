@@ -1,59 +1,37 @@
 # Emily Duchenne's website
 
-### Dependencies:
+Plain static HTML/CSS/JS — no build step. Videos pull automatically from
+Instagram via Behold.so; articles are added manually below.
 
-- Ruby
-- RubyGems
-- Jekyll
+## Running it locally
 
-## Customising the website
-
-### Change bio photo
-Replace the file ./assets/images/bio-photo.jpg with a square bio photo with the same file name
-
-### Change bio
-Replace the bio on line 63 of _config.yml
-
-### Add website description for Google
-Replace the description on line 18
-
-### Add text to the about page
-Navigate to the file ./_pages/about.md
-Replace the text starting with 'Tempor velit sint sunt...'
-
-# How to add posts
-template at the bottom called yyyy-mm-dd.md 
-copy this into the _posts folder
-command+s to save, then commit changes w source control
-
-Posts are contained in the _posts folder
-
-Basically these are markdown files just like a README. I would check out this [link](https://www.markdownguide.org/cheat-sheet/) to understand how to use markdown if you haven't before.
-
-!!!Very important!!!
-Post filenames must follow the convention yyyy-mm-dd-title
-Title should be in lowercase with spaces separated by dashes
-The file should be of the type .md
-
-Within the file follow the convention of the example posts ie:
 ```
----
-title: "Post: Your Title Here"
-last_modified_at: [date in this form 2016-03-09T16:20:02-05:00]
-categories:
-  - Blog
-tags:
-  - tag 1
-  - tag 2
-  - etc.
----
-
-Your blog using markdown format
+npx serve .
 ```
 
-# markdown cheat sheet
+(or `python3 -m http.server`), then open the URL it prints.
 
-	**bold text**
+## Adding an article
 
-  Link: [title](https://www.example.com)
+Open `articles.json` and add a new entry at the top of the array:
 
+```json
+{
+  "title": "Headline of the piece",
+  "sub": "One-line standfirst or description",
+  "outlet": "FT Weekend",
+  "date": "2026-09-27",
+  "image": "assets/articles/your-image.jpg",
+  "url": "https://example.com/the-article"
+}
+```
+
+- `date` controls sort order (newest first) — use `YYYY-MM-DD`.
+- `image` should point to a file in `assets/articles/` — add the image there first.
+- `url` is where clicking the card sends the reader.
+
+Commit the change (edit the file directly on GitHub, or via git) and it goes live on next deploy.
+
+## Videos
+
+Videos pull automatically from Instagram via Behold.so — nothing to update here manually. See `js/config.js` for the feed ID.

@@ -87,7 +87,12 @@ img { max-width: 100%; display: block; }
 
 .site-nav__links {
   display: flex;
+  align-items: center;
   gap: 32px;
+}
+
+.site-nav__logo {
+  display: block;
 }
 
 /* ---------- Hero ---------- */
@@ -271,13 +276,16 @@ img { max-width: 100%; display: block; }
 
 .work-item:hover { opacity: .8; }
 
+.work-item--static { cursor: default; }
+.work-item--static:hover { opacity: 1; }
+
 .work-item__cover {
   position: relative;
 }
 
 .work-item__cover img {
   width: 100%;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 9 / 16;
   object-fit: cover;
 }
 
@@ -506,6 +514,12 @@ img { max-width: 100%; display: block; }
   font-size: 12px;
   letter-spacing: .14em;
   color: var(--on-dark-label);
+}
+
+.about__footer-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
 }
 
 /* ---------- Lightbox ---------- */

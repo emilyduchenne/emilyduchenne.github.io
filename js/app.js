@@ -55,7 +55,9 @@
       const res = await fetch(`https://feeds.behold.so/${CONFIG.BEHOLD_FEED_ID}`);
       if (!res.ok) throw new Error(`Behold feed responded ${res.status}`);
       const data = await res.json();
-      return (data.posts || []).map(mapBeholdPost);
+      return (data.posts || [])
+        .filter(post => post.mediaType === 'VIDEO')
+        .map(mapBeholdPost);
     } catch (err) {
       console.error('Failed to load Instagram feed from Behold', err);
       return [];
@@ -94,6 +96,10 @@
       console.error('Failed to load data/articles.json', err);
       return [];
     }
+  }
+
+  function hasUrl(url) {
+    return typeof url === 'string' && url.trim() !== '' && url.trim() !== '#';
   }
 
   function getFilteredItems() {
@@ -173,11 +179,15 @@
         img.loading = 'lazy';
         cover.appendChild(img);
         card.appendChild(cover);
-        const read = document.createElement('span');
-        read.className = 'work-item__read';
-        read.textContent = 'Read the piece →';
-        card.appendChild(read);
-        card.addEventListener('click', () => window.open(it.url, '_blank', 'noopener'));
+        if (hasUrl(it.url)) {
+          const read = document.createElement('span');
+          read.className = 'work-item__read';
+          read.textContent = 'Read the piece →';
+          card.appendChild(read);
+          card.addEventListener('click', () => window.open(it.url, '_blank', 'noopener'));
+        } else {
+          card.classList.add('work-item--static');
+        }
       }
 
       feedEl.appendChild(card);

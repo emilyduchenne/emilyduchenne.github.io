@@ -4,31 +4,127 @@
     "sub": "Saved from 19th-century developers and reshaped by wartime rubble, this patchwork green space now hosts nearly 90 football pitches, rare urban wildlife, canal boats and raves.",
     "outlet": "FT Globetrotter",
     "date": "2026-08-05",
-    "image": "assets/articles/hackney-marshes.png",
+    "image": "assets/articles/marshes.avif",
     "url": "https://www.ft.com/content/1ba03042-06c1-4631-a898-2e1c59c89493"
   },
   {
     "title": "Dark Tales",
     "sub": "In print in FT Weekend.",
     "outlet": "FT Weekend",
-    "date": "2023-06-01",
+    "date": "2026-09-19",
     "image": "assets/articles/dark-tales.png",
-    "url": "https://www.ft.com/"
+    "url": ""
   },
   {
     "title": "Eggs",
-    "sub": "In HTSI, the FT Weekend magazine.",
-    "outlet": "HTSI",
-    "date": "2023-01-01",
+    "sub": "In print in FT Weekend.",
+    "outlet": "FT Weekend",
+    "date": "2026-03-21",
     "image": "assets/articles/eggs.png",
-    "url": "https://www.ft.com/htsi"
+    "url": "https://www.ft.com/content/3467180c-6a3f-407d-8dbe-57eec98d479f"
   },
   {
     "title": "John Gossage",
-    "sub": "In print.",
+    "sub": "In print at the FT Weekend Magazine.",
     "outlet": "Print",
-    "date": "2022-06-01",
+    "date": "2026-01-05",
     "image": "assets/articles/john-gossage.png",
     "url": "#"
+  },
+  {
+    "title": "Denmark and the US reach Arctic security pact over Greenland",
+    "sub": "Online at CGTN Europe.",
+    "outlet": "Digital",
+    "date": "2026-09-19",
+    "image": "assets/articles/greenland.jpeg",
+    "url": "https://newseu.cgtn.com/news/2026-09-19/Denmark-and-the-US-reach-Arctic-security-pact-over-Greenland-1Qzo8Bt4lMY/p.html"
+  },
+  {
+    "title": "Netanyahu polls at 'historic' lows following bombshell Oct 7 claims",
+    "sub": "Online at CGTN Europe.",
+    "outlet": "Digital",
+    "date": "2026-09-11",
+    "image": "assets/articles/netanyahu.jpeg",
+    "url": "https://newseu.cgtn.com/news/2026-09-11/Netanyahu-polls-at-historic-lows-following-bombshell-Oct-7-claims-1QmcywhobGo/p.html"
+  },
+  {
+    "title": "UK's super-heated summer could lead to food shortages, experts warn",
+    "sub": "Online at CGTN Europe.",
+    "outlet": "Digital",
+    "date": "2026-08-04",
+    "image": "assets/articles/bedford.jpeg",
+    "url": "https://newseu.cgtn.com/news/2026-08-04/UK-s-super-heated-summer-could-lead-to-food-shortages-experts-warn-1Pl0sC11cjK/index.html"
+  },
+  {
+    "title": "Think with your stomach: what to eat and drink during a heatwave",
+    "sub": "Online at CGTN Europe.",
+    "outlet": "Digital",
+    "date": "2026-07-26",
+    "image": "assets/articles/food.jpeg",
+    "url": "https://newseu.cgtn.com/news/2026-07-08/Think-with-your-stomach-what-to-eat-and-drink-during-a-heatwave-1Ozf1pCpKhO/index.html"
+  },
+  {
+    "title": "UK: Israel's occupation of Palestine 'unlawful' as sanctions declared",
+    "sub": "Online at CGTN Europe.",
+    "outlet": "Digital",
+    "date": "2026-09-08",
+    "image": "assets/articles/miliband.jpeg",
+    "url": "https://newseu.cgtn.com/news/2026-09-08/UK-Israel-s-occupation-of-Palestine-unlawful-as-sanctions-declared-1Qhg8gfHBte/p.html"
+  },
+  {
+    "title": "Europe's far-right seems unstoppable. What's behind the frenzy?",
+    "sub": "Online at CGTN Europe.",
+    "outlet": "Digital",
+    "date": "2026-09-07",
+    "image": "assets/articles/frenzy.jpeg",
+    "url": "https://newseu.cgtn.com/news/2026-09-19/The-rise-of-the-green-city-1Qzo8Bt4lMY/p.html"
+  },
+  {
+    "title": "Wimbledon is back. What changes should you watch out for?",
+    "sub": "Online at CGTN Europe.",
+    "outlet": "Digital",
+    "date": "2026-06-28",
+    "image": "assets/articles/wimbledon.jpeg",
+    "url": "https://newseu.cgtn.com/news/2026-06-28/Wimbledon-is-back-what-changes-should-you-watch-out-for--1Okedz2KBgY/p.html"
+  },
+  {
+    "title": "What is Flying Ant Day?",
+    "sub": "Online at CGTN Europe.",
+    "outlet": "Digital",
+    "date": "2026-07-12",
+    "image": "assets/articles/ants.jpeg",
+    "url": "https://newseu.cgtn.com/news/2026-07-12/What-is-Flying-Ant-Day-And-should-you-be-concerned--1OFBW09fJeg/p.html"
+  },
+  {
+    "title": "London’s car boot sales have become fashion design testing labs",
+    "sub": "Online at Dazed.",
+    "outlet": "Digital",
+    "date": "2025-05-23",
+    "image": "assets/articles/dazed.webp",
+    "url": "https://www.dazeddigital.com/fashion/article/66891/1/london-car-boot-sale-peckham-dalston-fashion-design-vintage-reseller"
+  },
+  {
+    "title": "UK government confronted over Islamophobia, far-right and Gaza at Labour Muslim conference",
+    "sub": "Online at Middle East Eye.",
+    "outlet": "Digital",
+    "date": "2025-12-09",
+    "image": "assets/articles/mee.webp",
+    "url": "https://www.middleeasteye.net/news/labour-muslim-conference-uk-government-confronted-over-islamophobia-far-right-and-gaza"
+  },
+  {
+    "title": "Sound baths, yoga and vegan breakfast - meet the Hackney locals celebrating the spring equinox",
+    "sub": "Online at Hackney Citizen.",
+    "outlet": "Digital",
+    "date": "2026-03-25",
+    "image": "assets/articles/equinox.webp",
+    "url": "https://www.eastendreview.co.uk/equinox-hackney-marshes-david-johnston/"
+  },
+  {
+    "title": "HTSI Opening Shot, James Prapaithong",
+    "sub": "In print in FT HTSI.",
+    "outlet": "Print",
+    "date": "2026-04-01",
+    "image": "assets/articles/opening.jpeg",
+    "url": ""
   }
 ]

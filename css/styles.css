@@ -95,6 +95,17 @@ img { max-width: 100%; display: block; }
   display: block;
 }
 
+.site-nav__ig {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.site-nav__ig-icon {
+  width: 16px;
+  height: 16px;
+}
+
 /* ---------- Hero ---------- */
 .hero {
   display: grid;
@@ -520,6 +531,7 @@ img { max-width: 100%; display: block; }
   display: inline-flex;
   align-items: center;
   gap: 8px;
+  font-size: 16px;
 }
 
 /* ---------- Lightbox ---------- */

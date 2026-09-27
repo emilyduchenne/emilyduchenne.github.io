@@ -17,6 +17,10 @@
 
   let lastFocusedEl = null;
 
+  function isMobile() {
+    return window.matchMedia('(hover: none) and (pointer: coarse)').matches;
+  }
+
   init();
 
   async function init() {
@@ -166,7 +170,13 @@
         card.appendChild(metaEl);
         card.appendChild(titleEl);
         card.appendChild(subEl);
-        card.addEventListener('click', () => openLightbox(it));
+        card.addEventListener('click', () => {
+          if (isMobile()) {
+            window.open(it.url, '_blank', 'noopener');
+          } else {
+            openLightbox(it);
+          }
+        });
       } else {
         card.appendChild(metaEl);
         card.appendChild(titleEl);

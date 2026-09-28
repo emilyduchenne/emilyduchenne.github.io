@@ -21,6 +21,16 @@
     return window.matchMedia('(hover: none) and (pointer: coarse)').matches;
   }
 
+  function openInNewTab(url) {
+    const a = document.createElement('a');
+    a.href = url;
+    a.target = '_blank';
+    a.rel = 'noopener';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+  }
+
   init();
 
   async function init() {
@@ -172,7 +182,7 @@
         card.appendChild(subEl);
         card.addEventListener('click', () => {
           if (isMobile()) {
-            window.open(it.url, '_blank', 'noopener');
+            openInNewTab(it.url);
           } else {
             openLightbox(it);
           }
@@ -194,7 +204,7 @@
           read.className = 'work-item__read';
           read.textContent = 'Read the piece →';
           card.appendChild(read);
-          card.addEventListener('click', () => window.open(it.url, '_blank', 'noopener'));
+          card.addEventListener('click', () => openInNewTab(it.url));
         } else {
           card.classList.add('work-item--static');
         }

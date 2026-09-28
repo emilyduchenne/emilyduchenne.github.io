@@ -173,7 +173,7 @@
           const play = document.createElement('span');
           play.className = 'work-item__play';
           play.setAttribute('aria-hidden', 'true');
-          play.textContent = '▶';
+          play.innerHTML = '<svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor"><path d="M6 4.5v15l14-7.5z"/></svg>';
           cover.appendChild(play);
         }
         card.appendChild(cover);

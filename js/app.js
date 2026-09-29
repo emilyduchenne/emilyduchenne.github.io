@@ -13,6 +13,7 @@
   const lightboxTitle = document.getElementById('lightboxTitle');
   const lightboxSub = document.getElementById('lightboxSub');
   const lightboxLink = document.getElementById('lightboxLink');
+  const lightboxPlayerLink = document.getElementById('lightboxPlayerLink');
   const lightboxClose = document.getElementById('lightboxClose');
 
   let lastFocusedEl = null;
@@ -289,6 +290,7 @@
     lightboxTitle.textContent = it.title;
     lightboxSub.textContent = it.sub;
     lightboxLink.href = it.url;
+    lightboxPlayerLink.href = it.url;
     lightboxLink.textContent = it.isPlayable ? 'Watch on Instagram' : 'View on Instagram';
 
     lightbox.hidden = false;

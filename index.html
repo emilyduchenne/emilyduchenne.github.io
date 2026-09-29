@@ -121,8 +121,13 @@
 </div>
 
 <div class="lightbox" id="lightbox" hidden role="dialog" aria-modal="true" aria-labelledby="lightboxTitle">
+  <button type="button" class="lightbox__close" id="lightboxClose" aria-label="Close">
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 4l12 12M16 4L4 16"/></svg>
+  </button>
   <div class="lightbox__player">
-    <img id="lightboxImg" src="" alt="">
+    <a id="lightboxPlayerLink" href="#" target="_blank" rel="noopener" aria-label="Open on Instagram">
+      <img id="lightboxImg" src="" alt="">
+    </a>
   </div>
   <div class="lightbox__info">
     <span class="lightbox__label" id="lightboxLabel"></span>
@@ -130,7 +135,6 @@
     <span class="lightbox__sub" id="lightboxSub"></span>
     <div class="lightbox__actions">
       <a class="btn btn--primary" id="lightboxLink" href="#" target="_blank" rel="noopener">Watch on Instagram</a>
-      <button type="button" class="btn btn--secondary" id="lightboxClose">Close</button>
     </div>
   </div>
 </div>
